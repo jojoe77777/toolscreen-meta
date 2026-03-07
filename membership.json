@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Gold",
+    "color": "#E2B84B",
+    "image": "https://raw.githubusercontent.com/jojoe77777/toolscreen-meta/main/images/gold.png",
+    "members": [
+      "TapL"
+    ]
+  },
+  {
+    "name": "Iron",
+    "color": "#7E8795",
+    "image": "https://raw.githubusercontent.com/jojoe77777/toolscreen-meta/main/images/iron.png",
+    "members": [
+      "ddoba",
+      "julie",
+      "WhoIsMaclord"
+    ]
+  }
+]
