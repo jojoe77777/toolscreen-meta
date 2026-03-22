@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Diamond",
+    "color": "#5CC3FF",
+    "image": "https://raw.githubusercontent.com/jojoe77777/toolscreen-meta/main/images/diamond.png",
+    "members": [
+      "Blasted"
+    ]
+  },
+  {
+    "name": "Emerald",
+    "color": "#2FA772",
+    "image": "https://raw.githubusercontent.com/jojoe77777/toolscreen-meta/main/images/emerald.png",
+    "members": [
+      "SammyB2"
+    ]
+  },
+  {
+    "name": "Gold",
+    "color": "#E2B84B",
+    "image": "https://raw.githubusercontent.com/jojoe77777/toolscreen-meta/main/images/gold.png",
+    "members": [
+      "Nando",
+      "TapL"
+    ]
+  },
+  {
+    "name": "Iron",
+    "color": "#7E8795",
+    "image": "https://raw.githubusercontent.com/jojoe77777/toolscreen-meta/main/images/iron.png",
+    "members": [
+      "ddoba",
+      "hary",
+      "julie",
+      "pelepa",
+      "WhoIsMaclord",
+      "yupper"
+    ]
+  }
+]
