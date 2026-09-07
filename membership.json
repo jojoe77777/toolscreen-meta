@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Emerald",
+    "color": "#2FA772",
+    "image": "https://raw.githubusercontent.com/jojoe77777/toolscreen-meta/main/images/emerald.png",
+    "members": [
+      "SammyB2"
+    ]
+  },
+  {
+    "name": "Gold",
+    "color": "#E2B84B",
+    "image": "https://raw.githubusercontent.com/jojoe77777/toolscreen-meta/main/images/gold.png",
+    "members": [
+      "Daniel Ruane",
+      "Nando",
+      "nikoiko",
+      "Olly03",
+      "TapL"
+    ]
+  },
+  {
+    "name": "Iron",
+    "color": "#7E8795",
+    "image": "https://raw.githubusercontent.com/jojoe77777/toolscreen-meta/main/images/iron.png",
+    "members": [
+      "BetterMan04",
+      "Blasted",
+      "charlotte",
+      "Cor",
+      "hary",
+      "julie",
+      "yupper"
+    ]
+  }
+]
